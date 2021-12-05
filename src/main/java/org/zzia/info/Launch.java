@@ -7,6 +7,7 @@ public class Launch {
         System.out.println("commit 333333333333333 !!!");
         System.out.println("hot-fix first commit 111111111111 !!!");
         System.out.println("master  commit 444444444444444!!!");
+        System.out.println("hot-fix second commit 22222222222 !!!");
 
     }
 }
