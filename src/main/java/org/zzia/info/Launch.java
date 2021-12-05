@@ -5,6 +5,7 @@ public class Launch {
         System.out.println("learning git !!!");
         System.out.println("commit 222222222222222 !!!");
         System.out.println("commit 333333333333333 !!!");
+        System.out.println("hot-fix first commit 111111111111 !!!");
 
     }
 }
