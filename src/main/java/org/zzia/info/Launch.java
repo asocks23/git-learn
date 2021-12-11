@@ -13,6 +13,6 @@ public class Launch {
         System.out.println("github clone commit 44444444444 !!!");
         System.out.println("====================测试分支合并===================1111111111111");
         System.out.println("********************测试分支合并********************2222222222222");
-
+        System.out.println("测试PUSH命令==============");
     }
 }
